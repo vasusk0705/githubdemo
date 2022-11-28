@@ -8,7 +8,7 @@ public class Test1_Welcome2 {
 	{
 		// TODO Auto-generated method stub
 		
-		System.out.println("hai octnov testing stars all the best for github");
+		System.out.println("bye for github");
 		
 	}
 
