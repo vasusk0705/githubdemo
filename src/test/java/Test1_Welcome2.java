@@ -8,7 +8,7 @@ public class Test1_Welcome2 {
 	{
 		// TODO Auto-generated method stub
 		
-		System.out.println("welcome to the first batch");
+		System.out.println("hai sreeni thanks for github");
 		
 	}
 
